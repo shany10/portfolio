@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@400..700&family=Pixelify+Sans:wght@400..700&family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&display=swap');
+
+* {
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  background-color: #eefbfd;
+  font-family: "Playwrite GB S", cursive;
+  letter-spacing: 1px;
+}
+
+.nuage_3 {
+  background-image: url('./images/nuage_3.jpg');
+  background-size: cover;
+}
+
+.previouslyOn {
+  background-image: url('./images/previouslyOn.jpg');
+  background-size: cover;
+}
+
+.myIRC {
+  background-image: url('./images/mobile-1087845_1280.jpg');
+  background-size: cover;
+}
+
+.html5Gaming {
+  background-image: url('./images/html5Gaming.png');
+  background-size: cover;
+}
+
+.eCommerce {
+  background-image: url('./images/e-commerce.jpg');
+  background-size: cover;
+}
+
+.bgPrimary {
+  background-color: #eefbfd;
+}
+
+.bgBlur {
+  background:#0E2545;
+}
+
+.parallax {
+  overflow: hidden;
+  letter-spacing: -1px;
+  line-height: 0.8;
+  margin: 0;
+  white-space: nowrap;
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.parallax .scroller {
+  font-weight: 800;
+  text-transform: uppercase;
+  font-size: 40px;
+  display: flex;
+  white-space: nowrap;
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.footer {
+  box-sizing: border-box;
+  background: linear-gradient(45deg, rgba(34,164,116,1) 0%, rgba(41,47,143,1) 100%);
+}
+
