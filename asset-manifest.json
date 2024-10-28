@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.23383d9a.css",
-    "main.js": "/portfolio/static/js/main.eb07ee2a.js",
+    "main.js": "/portfolio/static/js/main.1e5cb3ca.js",
     "static/js/453.ed3810f9.chunk.js": "/portfolio/static/js/453.ed3810f9.chunk.js",
     "static/media/html5Gaming.png": "/portfolio/static/media/html5Gaming.d4cc643f07ec87fa64ad.png",
     "static/media/previouslyOn.jpg": "/portfolio/static/media/previouslyOn.3dd033fe73ee059d7e6e.jpg",
     "static/media/mobile-1087845_1280.jpg": "/portfolio/static/media/mobile-1087845_1280.836ce9296cb051f72e23.jpg",
     "static/media/soleil_droite.png": "/portfolio/static/media/soleil_droite.530cd4b4890027f10964.png",
+    "static/media/qr-code.svg": "/portfolio/static/media/qr-code.c78be3aa32e2be13669bac08a53755bb.svg",
     "static/media/nuage_3.jpg": "/portfolio/static/media/nuage_3.74d252f279d7578a0ffe.jpg",
     "static/media/soleil_gauche.png": "/portfolio/static/media/soleil_gauche.4de9e01c9fca0163f980.png",
     "static/media/e-commerce.jpg": "/portfolio/static/media/e-commerce.09a820d882d72123ce07.jpg",
-    "static/media/qr-code.svg": "/portfolio/static/media/qr-code.0a40c34cf0d1a954c61fc5977621dffa.svg",
     "static/media/parcoure-2.svg": "/portfolio/static/media/parcoure-2.bd968ad9cb3165cdc4505c69c2e88a42.svg",
     "static/media/ecole.svg": "/portfolio/static/media/ecole.a1464e067555f04577d3437ea0bf62c7.svg",
     "index.html": "/portfolio/index.html",
     "main.23383d9a.css.map": "/portfolio/static/css/main.23383d9a.css.map",
-    "main.eb07ee2a.js.map": "/portfolio/static/js/main.eb07ee2a.js.map",
+    "main.1e5cb3ca.js.map": "/portfolio/static/js/main.1e5cb3ca.js.map",
     "453.ed3810f9.chunk.js.map": "/portfolio/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.23383d9a.css",
-    "static/js/main.eb07ee2a.js"
+    "static/js/main.1e5cb3ca.js"
   ]
 }
